@@ -68,13 +68,33 @@ Please visit the [Kubernetes GSoC page](https://git.k8s.io/community/mentoring/g
 -	Mentor(s): Pengfei Ni (@feiskyer)
 -	Issue: https://github.com/kubernetes/cloud-provider-azure/issues/4
 
-#### CSI drivers for AzureDisk and AzureFile
+#### CSI drivers for AzureDisk
 
--	Description: External drivers for AzureDisk and AzureFile would be implemented as new CSI drivers. The goal is mirror the current functions from in-tree drivers and setup e2e tests as well as documentation for them.
+-	Description: External drivers for AzureDisk would be implemented as new CSI drivers. The goal is mirror the current functions from in-tree drivers and setup e2e tests as well as documentation for them.
 -	Recommended Skills: Golang, Kubernetes, Azure
 -	Mentor(s): Andy Zhang (@andyzhangx)
 -	Issue: https://github.com/kubernetes/org/issues/344
 
+#### CSI drivers for AzureFile
+
+-	Description: External drivers for AzureFile would be implemented as new CSI drivers. The goal is mirror the current functions from in-tree drivers and setup e2e tests as well as documentation for them.
+-	Recommended Skills: Golang, Kubernetes, Azure
+-	Mentor(s): Andy Zhang (@andyzhangx)
+-	Issue: https://github.com/kubernetes/org/issues/344
+
+#### CSI drivers for Blobfuse
+
+-	Description: External drivers for Blobfuse would be implemented as new CSI drivers. The goal is mirror the current functions from blobfuse drivers and setup e2e tests as well as documentation for them.
+-	Recommended Skills: Golang, Kubernetes, Azure
+-	Mentor(s): Andy Zhang (@andyzhangx)
+-	Issue: https://github.com/kubernetes/org/issues/344
+
+#### CSI drivers for AzureFile
+
+-	Description: External drivers for AzureFile would be implemented as new CSI drivers. The goal is mirror the current functions from in-tree drivers and setup e2e tests as well as documentation for them.
+-	Recommended Skills: Golang, Kubernetes, Azure
+-	Mentor(s): Andy Zhang (@andyzhangx)
+-	Issue: https://github.com/kubernetes/org/issues/344
 #### Streamline and simplify SASS for the Kubernetes website
 
 -	Description: The website's SASS is prohibitively complex. The goal is to streamline the site's SASS and make attributes easily discoverable and changeable.
